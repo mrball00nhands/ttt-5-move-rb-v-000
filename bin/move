@@ -7,5 +7,3 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 # Code your CLI Here
 puts "Welcome to Tic Tac Toe!"
-
-
